@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnnaLesh2008
-- 👀 I’m interested in frontend and backend developing, and English Language
+- 👀 I’m interested in frontend/backend developing and English Language
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate with cool company with interesting and hard orders
 - 📫 How to reach me: you may write me in telegram: @theimyapolzovatelya or e-mail: anna-lesh2020@yandex.ru
